@@ -5,6 +5,7 @@ package Lab;
 
 public class Library {
     public boolean someLibraryMethod() {
+    	System.out.println("change");
         return true;
     }
 }
